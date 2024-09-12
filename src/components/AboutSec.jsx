@@ -20,7 +20,6 @@ const AboutSec = () => {
                     </div>
                 </div>
             </div>
-
         </div>
     )
 }
