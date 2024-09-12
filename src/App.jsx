@@ -6,6 +6,7 @@ import AboutSec from "./components/AboutSec"
 import TechnologieSec from "./components/TechnologieSec"
 import ExprienceSec from "./components/ExprienceSec"
 import ProjectsSec from "./components/ProjectsSec"
+import ContactSec from "./components/ContactSec"
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
               <TechnologieSec/>
               <ExprienceSec/>
               <ProjectsSec/>
+              <ContactSec/>
             </div>
 
           </div>
